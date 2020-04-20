@@ -10,6 +10,7 @@ BinaryPack is a simple Golang library which implements some functionality of Pyt
 `go get github.com/roman-kachanovsky/go-binary-pack/binary-pack`
 
 **Go mod**
+
 require github.com/roman-kachanovsky/go-binary-pack v0.0.0-20170214094030-e260e0dc6732 // indirect
 
 
